@@ -1,0 +1,5 @@
+a=int(input("enter a number"))
+b=int(input("enter a number"))
+c=int(input("enter a number"))
+surface_area=(2*a*b)+(2*b*c)+(2*c*a)
+print("the surface area of prism=",surface_area)
